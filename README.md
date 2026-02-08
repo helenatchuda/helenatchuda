@@ -1,20 +1,5 @@
 # Olá, eu sou a Helena Fernando José da Silva👋
 ### Estudante de Desenvolvimento Web & Mobile
-
-<div align="center">
-  <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
-  
-  # Helena Fernando José Silva
-  ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
-
-
-<div align="center">
-  <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
-  
-  # Helena Silva
-  ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
-</div>
-
 <div align="center">
   <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
   
