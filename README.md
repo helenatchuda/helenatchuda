@@ -4,13 +4,13 @@
   <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
   
 
- ## 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
+  ## 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência" />
 </p>
 
 ---
@@ -24,7 +24,8 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
   "nome": "Helena Silva",
   "pronomes": "she/her",
   "objetivo": "Desenvolvedora Full Stack",
-  "estudando": ["React", "JavaScript" ,"TypeScript", "Node.js", "Flutter"],
-  "local": "IPortugal/Viseu"
+  "estudando": ["React", "JavaScript", "TypeScript", "Node.js", "Flutter"],
+  "local": "Portugal",
+  "From": "Guiné-Bissau"
+}```json
 
-}
