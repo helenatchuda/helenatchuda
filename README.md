@@ -38,5 +38,3 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
 }
 
 
-🛠 Tech Stack
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,flutter,dart,nodejs,express" /> </a> </p>
