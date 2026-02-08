@@ -28,3 +28,13 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
   "estudando": ["React", "javaScript""TypeScript", "Node.js", "Flutter"],
   "local": "Portugal"
 }
+🛠 Tech Stack
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,flutter,dart,nodejs,express" /> </a> </p>
+
+
+🧰 Tools I Use
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode,git,github,windows,figma" /> </a> </p>
+
+
+📊 Conquistas
+<p align="center"> <a href="https://linkedin.com/in/helenafnandajosedasilva" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /> </a> </p>
