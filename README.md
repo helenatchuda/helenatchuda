@@ -28,26 +28,5 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
   "estudando": ["React", "TypeScript", "Node.js", "Flutter"],
   "local": "Angola"
 }
-## 🛠 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express" />
-  </a>
-</p>
-
-## 🧰 Tools I Use
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,figma" />
-  </a>
-</p>
 
 
-## 📊 Conquistas
-![](https://github-profile-trophy.vercel.app/?username=helenatchuda&theme=tokyonight&column=7)
-
-<p align="center">
-  <a href="https://linkedin.com/in/helenafnandajosedasilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
