@@ -22,11 +22,12 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
 
 ```json
 {
-  "nome": "Helena Fernando",
+  "nome": "Helena Silva",
   "pronomes": "she/her",
   "objetivo": "Desenvolvedora Full Stack",
-  "estudando": ["React", "TypeScript", "Node.js", "Flutter"],
-  "local": "Angola"
+  "estudando": ["React","JavaScript" "TypeScript", "Node.js", "Flutter"],
+  "local": "Portugal"
+  "From": "Guiné-Bissau"
 }
 
 
