@@ -6,9 +6,8 @@
 
   ## 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
 </div>
-
 <p align="center">
-  <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/nuneep444kkmudkqhm2cku6d0e.jpg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência" />
 </p>
