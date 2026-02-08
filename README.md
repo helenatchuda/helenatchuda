@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/nuneep444kkmudkqhm2cku6d0e.jpg" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência" />
 </p>
@@ -27,5 +27,5 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
   "estudando": ["React", "JavaScript", "TypeScript", "Node.js", "Flutter"],
   "local": "Portugal",
   "From": "Guiné-Bissau"
-}```json
+}
 
