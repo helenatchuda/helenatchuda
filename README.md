@@ -1,5 +1,5 @@
 # Olá, eu sou a Helena Fernando José da Silva👋
-### Estudante de Desenvolvimento Web & Mobile
+
 <div align="center">
   <img height="150" src="https://m.media-amazon.com/images/S/amzn-author-media-prod/nuneep444kkmudkqhm2cku6d0e.jpg" style="border-radius: 50%;" />
   
