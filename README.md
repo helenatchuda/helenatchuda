@@ -3,8 +3,8 @@
 <div align="center">
   <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
   
-  # Helena Fernando José Silva
-  ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
+
+ ## 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
 </div>
 
 <p align="center">
