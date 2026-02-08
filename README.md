@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou a Helena Fernando José da Silva👋
+### Estudante de Desenvolvimento Web & Mobile
 
-<!--
-**helenatchuda/helenatchuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
+  
+  # Helena Fernando José Silva
+  ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência de Contribuições" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Sobre Mim
+
+Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atualmente, foco meu aprendizado no ecossistema JavaScript (React, TypeScript, Express) e no desenvolvimento mobile com Flutter/Dart.
+
+```json
+{
+  "nome": "Helena Fernando",
+  "pronomes": "she/her",
+  "objetivo": "Desenvolvedora Full Stack",
+  "estudando": ["React", "TypeScript", "Node.js", "Flutter"],
+  "local": "Angola"
+}
