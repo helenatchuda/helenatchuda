@@ -6,12 +6,19 @@
   
   # Helena Fernando José Silva
   ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
+
+
+<div align="center">
+  <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
+  
+  # Helena Silva
+  ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência" />
 </p>
 
 ---
@@ -25,13 +32,11 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
   "nome": "Helena Silva",
   "pronomes": "she/her",
   "objetivo": "Desenvolvedora Full Stack",
-  "estudando": ["React","JavaScript" "TypeScript", "Node.js", "Flutter"],
-  "local": "Portugal"
+  "estudando": ["React", "JavaScript", "TypeScript", "Node.js", "Flutter"],
+  "local": "Portugal",
   "From": "Guiné-Bissau"
 }
 
 
-
 🛠 Tech Stack
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,flutter,dart,nodejs,express" /> </a> </p>
-
