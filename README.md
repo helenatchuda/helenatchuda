@@ -15,10 +15,17 @@
   ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
 </div>
 
+<div align="center">
+  <img height="150" src="https://github.com/helenatchuda.png" style="border-radius: 50%;" />
+  
+  # Helena Fernando José Silva
+  ### 👩‍💻 Estudante de Desenvolvimento Full Stack & Mobile
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helenatchuda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenatchuda&theme=tokyonight" alt="Sequência de Contribuições" />
 </p>
 
 ---
@@ -29,12 +36,9 @@ Sou uma entusiasta da tecnologia apaixonada por criar soluções digitais. Atual
 
 ```json
 {
-  "nome": "Helena Silva",
+  "nome": "Helena Fernando",
   "pronomes": "she/her",
   "objetivo": "Desenvolvedora Full Stack",
-  "estudando": ["React", "JavaScript", "TypeScript", "Node.js", "Flutter"],
-  "local": "Portugal",
-  "From": "Guiné-Bissau"
+  "estudando": ["React", "TypeScript", "Node.js", "Flutter"],
+  "local": "Insira seu País/Cidade aqui"
 }
-
-
